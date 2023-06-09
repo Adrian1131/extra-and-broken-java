@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author adriflo
+ *
+ */
+module PasswordGenerator {
+}
